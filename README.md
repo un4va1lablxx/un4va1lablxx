@@ -3,19 +3,19 @@
 </div>
 
 ## <img src="./images/about-me.jpg" height="35" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/uni.jpeg" height="30" style="vertical-align: middle;" /> &nbsp; information systems and technologies @ belgorod state university<br />
-<img src="./images/java-monster.jpg" height="30" style="vertical-align: middle;" /> &nbsp; junior java backend developer
-<img src="./images/code.jpeg" height="30" style="vertical-align: middle;" /> &nbsp; constantly developing some pet-projects to stay competent and develop my skills
-<img src="./images/robot.webp" height="30" style="vertical-align: middle;" /> &nbsp; finalist of the "roboschool" competition from the ITMO university and Sberbank.
-<img src="./images/great-britain.jpg" height="30" style="vertical-align: middle;" /> &nbsp; actively learning english (current cefr level is c1), preparing for the toefl exam
+<img src="./images/uni.png" height="30" style="vertical-align: middle;" /> &nbsp; information systems and technologies @ belgorod state university<br />
+<img src="./images/java-monster.png" height="30" style="vertical-align: middle;" /> &nbsp; junior java backend developer<br />
+<img src="./images/code.png" height="30" style="vertical-align: middle;" /> &nbsp; constantly developing some pet-projects to stay competent and develop my skills<br />
+<img src="./images/robot.webp" height="30" style="vertical-align: middle;" /> &nbsp; finalist of the "roboschool" competition from the ITMO university and Sberbank.<br />
+<img src="./images/great-britain.png" height="30" style="vertical-align: middle;" /> &nbsp; actively learning english (current cefr level is c1), preparing for the toefl exam<br />
 
 ## <img src="./images/tech-stack.jpg" height="35" style="vertical-align: middle;" /> &nbsp; tech stack
 
-<img src="./images/java.jpg" height="30" style="vertical-align: middle;" /> &nbsp; **languages**: java, c#, sql, c++, python, php<br />
-<img src="./images/spring.jpg" height="30" style="vertical-align: middle;" /> &nbsp; **frameworks and libs**: spring boot, spring data, spring security, hibernate, junit, mockito, apache poi, mapstruct <br />
-<img src="./images/postgre.jpg" height="30" style="vertical-align: middle;" /> &nbsp; **databases**: postgresql, mysql. liquibase <br />
-<img src="./images/git.jpg" height="30" style="vertical-align: middle;" /> &nbsp; **instruments**: maven, gradle, git, postman, docker<br />
-<img src="./images/rest.jpg" height="30" style="vertical-align: middle;" /> &nbsp; **architecture**: microservices, rest api, mvc, module testing<br />
+<img src="./images/java.svg" height="30" style="vertical-align: middle;" /> &nbsp; **languages**: java, c#, sql, c++, python, php<br />
+<img src="./images/spring.svg" height="30" style="vertical-align: middle;" /> &nbsp; **frameworks and libs**: spring boot, spring data, spring security, hibernate, junit, mockito, apache poi, mapstruct <br />
+<img src="./images/postgre.svg" height="30" style="vertical-align: middle;" /> &nbsp; **databases**: postgresql, mysql. liquibase <br />
+<img src="./images/git.svg" height="30" style="vertical-align: middle;" /> &nbsp; **instruments**: maven, gradle, git, postman, docker<br />
+<img src="./images/rest.svg" height="30" style="vertical-align: middle;" /> &nbsp; **architecture**: microservices, rest api, mvc, module testing<br />
 
 ## <img src="./images/projects.jpg" height="35" style="vertical-align: middle;" /> &nbsp; my projects
 
