@@ -19,7 +19,7 @@
 
 ## <img src="./images/projects.jpg" height="35" style="vertical-align: middle;" /> &nbsp; my projects
 
-- [pharmacy-spring](https://github.com/un4va1lablxx/pharmacy-spring) – app for a pharmacy store written in Spring Boot, includes authorisation, uses roles model, has some advanced filtering strategies and integrates an interactive map made by yandex-maps
-- [courier-delivery](https://github.com/un4va1lablxx/courier_delivery) – my first Spring Boot app for a courier delivery written in spring boot, uses postgresql for data
-- [uni-schedule](https://github.com/un4va1lablxx/uni_schedule) – app for the university schedule, was bored and made up ITMO university schedule website.
 - [export-organization](https://github.com/un4va1lablxx/export-organization) & [export-user](https://github.com/un4va1lablxx/export-user) – microservices for an HR-platform (e-commerce developing for **LLC Reliable Technologies**), together representing an export module which exports data from db to various formats of files (such as pdf, excel, etc...). used MapStruct lib for mapping existing entities into dto objects and Apache POI for export in excel-format. migrations were also applied using Liquibase and services were fully covered with unit-tests. 
+- [pharmacy-spring](https://github.com/un4va1lablxx/pharmacy-spring) – app for a pharmacy store written in Spring Boot, includes authorisation, uses roles model, has some advanced filtering strategies and integrates an interactive map made by yandex-maps
+- [courier-delivery](https://github.com/un4va1lablxx/courier_delivery) – my first Spring Boot app for a courier delivery
+- [uni-schedule](https://github.com/un4va1lablxx/uni_schedule) – app for the university schedule, was bored and made up ITMO university schedule website.
