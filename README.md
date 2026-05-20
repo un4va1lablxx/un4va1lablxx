@@ -3,11 +3,11 @@
 </div>
 
 ## <img src="./images/about-me.jpg" height="35" style="vertical-align: middle;" /> &nbsp; about me
-<img src="./images/uni.png" height="24" style="vertical-align: middle;" /> &nbsp; Bachelor's Degree in the field of Information Systems and Technologies @ Belgorod State University | July 2026 | **GPA**: 4.00 / 4.00<br />
-<img src="./images/pointer.png" height="24" style="vertical-align: middle;" /> &nbsp; Java backend developer<br />
-<img src="./images/laptop.png" height="24" style="vertical-align: middle;" /> &nbsp; Constantly developing some pet-projects to stay competent and develop my skills<br />
-<img src="./images/robot.png" height="24" style="vertical-align: middle;" /> &nbsp; Finalist of the "roboschool" competition from ITMO university and Sberbank.<br />
-<img src="./images/globe.png" height="24" style="vertical-align: middle;" /> &nbsp; Actively learning English (current CEFR level is C1), preparing for the TOEFL exam<br />
+* Bachelor's Degree in the field of Information Systems and Technologies @ Belgorod State University | July 2026 | **GPA**: 4.00 / 4.00<br />
+* Java backend developer<br />
+* Constantly developing some pet-projects to stay competent and develop my skills<br />
+* Finalist of the "roboschool" competition from ITMO university and Sberbank.<br />
+* Actively learning English (current CEFR level is C1), preparing for the TOEFL exam<br />
 
 ## <img src="./images/tech-stack.jpg" height="35" style="vertical-align: middle;" /> &nbsp; tech stack
 
