@@ -3,8 +3,8 @@
 </div>
 
 ## <img src="./images/about-me.jpg" height="35" style="vertical-align: middle;" /> &nbsp; about me
+* Java Junior developer<br />
 * Bachelor's Degree in the field of Information Systems and Technologies @ Belgorod State University | July 2026 | **GPA**: 4.00 / 4.00<br />
-* Java backend developer<br />
 * Finalist of the "roboschool" competition from ITMO university and Sberbank.<br />
 * Actively learning English (current CEFR level is C1)<br />
 
