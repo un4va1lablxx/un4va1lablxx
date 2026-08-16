@@ -7,7 +7,7 @@
 * Java backend developer<br />
 * Constantly developing some pet-projects to stay competent and develop my skills<br />
 * Finalist of the "roboschool" competition from ITMO university and Sberbank.<br />
-* Actively learning English (current CEFR level is C1), preparing for the TOEFL exam<br />
+* Actively learning English (current CEFR level is C1)<br />
 
 ## <img src="./images/tech-stack.jpg" height="35" style="vertical-align: middle;" /> &nbsp; tech stack
 
